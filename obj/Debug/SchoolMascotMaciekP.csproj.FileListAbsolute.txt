@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Paduch, Maciek (s427612)\Unit 1 (Problem Solving)\SchoolMascotMaciekP\SchoolMascotMaciekP\bin\Debug\SchoolMascotMaciekP.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Paduch, Maciek (s427612)\Unit 1 (Problem Solving)\SchoolMascotMaciekP\SchoolMascotMaciekP\bin\Debug\SchoolMascotMaciekP.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Paduch, Maciek (s427612)\Unit 1 (Problem Solving)\SchoolMascotMaciekP\SchoolMascotMaciekP\bin\Debug\SchoolMascotMaciekP.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Paduch, Maciek (s427612)\Unit 1 (Problem Solving)\SchoolMascotMaciekP\SchoolMascotMaciekP\obj\Debug\SchoolMascotMaciekP.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Paduch, Maciek (s427612)\Unit 1 (Problem Solving)\SchoolMascotMaciekP\SchoolMascotMaciekP\obj\Debug\SchoolMascotMaciekP.frmMathFormulae.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Paduch, Maciek (s427612)\Unit 1 (Problem Solving)\SchoolMascotMaciekP\SchoolMascotMaciekP\obj\Debug\SchoolMascotMaciekP.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Paduch, Maciek (s427612)\Unit 1 (Problem Solving)\SchoolMascotMaciekP\SchoolMascotMaciekP\obj\Debug\SchoolMascotMaciekP.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Paduch, Maciek (s427612)\Unit 1 (Problem Solving)\SchoolMascotMaciekP\SchoolMascotMaciekP\obj\Debug\SchoolMascotMaciekP.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Paduch, Maciek (s427612)\Unit 1 (Problem Solving)\SchoolMascotMaciekP\SchoolMascotMaciekP\obj\Debug\SchoolMascotMaciekP.pdb
